@@ -1,12 +1,12 @@
 {
-  "name": "reatInterface",
+  "name": "reactInterface",
   "version": "0.0.1",
-  "description": "Project for Building an Interface with React Course on Lynda.com",
+  "description": "Project for Building an Interface with React",
   "repository": {
     "type": "git",
-    "url": "https://github.com/planetoftheweb/reactinterface.git"
+    "url": "https://github.com/gawainb/React-Interface.git"
   },
-  "author": "Ray Villalobos",
+  "author": "Gawain Bracy II",
   "devDependencies": {
     "gulp": "^3.8.8",
     "gulp-browserify": "^0.5.1",
